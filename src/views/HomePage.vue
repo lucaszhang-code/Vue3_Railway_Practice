@@ -1,6 +1,6 @@
 <!-- ParentComponent.vue -->
 <script setup lang="ts">
-import Download from '@/components/Download.vue';
+import Download from '@/components/DownloadLink.vue';
 import { VideoPlay } from '@element-plus/icons-vue';
 import { ref } from 'vue';
 import VideoDisplay from '@/components/VideoDisplay.vue';

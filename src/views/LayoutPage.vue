@@ -1,7 +1,7 @@
 <script setup lang="ts">
 import { ref } from 'vue'
 import { Close } from '@element-plus/icons-vue'
-import Download from '@/components/Download.vue'
+import Download from '@/components/DownloadLink.vue'
 
 const drawer = ref(false)
 
